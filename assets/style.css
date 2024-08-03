@@ -35,6 +35,57 @@ b {
     color: #222;
 }
 
+
+/* Ensure consistent spacing for all sections */
+section {
+    margin-bottom: 2em; /* Space between sections */
+}
+
+/* Style for text within sections */
+.section-text {
+    margin-bottom: 1em; /* Space between paragraphs within sections */
+}
+
+.awards-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.awards-list li {
+    margin-bottom: 1em; /* Adjust spacing to fit with the rest of your content */
+    font-size: 1em; /* Match font size to the rest of your site's text */
+}
+
+.award-title {
+    font-weight: normal; /* Normal weight, not bold */
+    display: block;
+    font-size: 1em; /* Match font size to the rest of your site's text */
+    color: #333; /* Match text color to the rest of your site's text */
+}
+
+.award-date {
+    font-style: italic; /* Italic style to differentiate from the title */
+    font-size: 0.9em; /* Slightly smaller font size for the date */
+    color: #666; /* Subtle color to match the rest of the site */
+}
+
+
+/* Style for publication entries */
+.publication-entry {
+    text-indent: -0.5cm; /* Negative indent for the first line */
+    padding-left: 0.5cm; /* Indent for the whole paragraph */
+    margin-bottom: 1em; /* Space between publication entries */
+}
+
+.nospace_heading {
+    margin-bottom: 0; /* Remove bottom margin */
+    padding-bottom: 0; /* Ensure no padding is adding extra space */
+    font-size: 1.5em; /* Adjust font size if needed to match the design */
+    line-height: 1.2; /* Adjust line height to fit with the rest of your text */
+}
+
+
 a {
     color: #3273dc;
     cursor: pointer;
