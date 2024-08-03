@@ -85,6 +85,27 @@ section {
     line-height: 1.2; /* Adjust line height to fit with the rest of your text */
 }
 
+.conference-entry {
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+    font-size: 1em; /* Adjust font size to match your design */
+    line-height: 1.5; /* Adjust line height for readability */
+}
+
+.conference-entry strong {
+    font-weight: bold; /* Ensure bold for titles and headings */
+    display: block; /* Make sure titles and headings are on a new line */
+    margin-bottom: 0.5em; /* Space between title and content */
+}
+
+.nospace_heading {
+    margin-bottom: 0; /* Remove bottom margin */
+    padding-bottom: 0; /* Ensure no padding is adding extra space */
+    font-size: 1.5em; /* Adjust font size if needed */
+    line-height: 1.2; /* Adjust line height to fit with the rest of your text */
+}
+
+
 
 a {
     color: #3273dc;
