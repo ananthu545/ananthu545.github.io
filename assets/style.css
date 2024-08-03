@@ -61,13 +61,11 @@ section {
     font-weight: normal; /* Normal weight, not bold */
     display: block;
     font-size: 1em; /* Match font size to the rest of your site's text */
-    color: #333; /* Match text color to the rest of your site's text */
 }
 
 .award-date {
     font-style: italic; /* Italic style to differentiate from the title */
     font-size: 0.9em; /* Slightly smaller font size for the date */
-    color: #666; /* Subtle color to match the rest of the site */
 }
 
 
