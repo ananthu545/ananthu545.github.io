@@ -1,15 +1,17 @@
 ###########
 # site.title
 
-title: jekyllBear
-description: a minimal, text focused blog theme
+title: Anantha Narayanan Suresh Babu
+description: PhD Candidate and MathWorks Fellow | MIT CSE-MechE
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
-url: "https://knhash.in/jekyllBear" # the base hostname & protocol for your site
+url: "https://ananthu545.github.io/" # the base hostname & protocol for your site
 # host: 0.0.0.0
 
 
 #########################
 # more settings
+
+permalink: /:title/
 
 plugins:
   - jekyll-redirect-from
@@ -55,13 +57,17 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
+Projects: /projects
+
+#Blog: /blog
 
 # Add general links to site pages here
 links:
-  Resume: /assets/resume.pdf
+  CV: /CV
+  Google Scholar: https://scholar.google.co.in/citations?user=OitRjjYAAAAJ&hl=en
+  LinkedIn: https://www.linkedin.com/in/anantha-narayanan-suresh-babu-1038b5137/
   
 
 # Add links for more focus here
-special_links:
-  "Search": https://duckduckgo.com
+#special_links:
+#  "Search": https://duckduckgo.com

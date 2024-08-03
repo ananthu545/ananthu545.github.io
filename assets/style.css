@@ -70,6 +70,14 @@ a:hover {
 
 nav a {
     margin-right: 10px;
+    text-decoration: underline; /* Adds underline to navigation links */
+    color: #3273dc; /* Color of the links */
+    margin-top: 0; /* Adjust this value as needed */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Keeps underline on hover */
+    color: #003d7a; /* Change color on hover */
 }
 
 textarea,

@@ -1,24 +1,35 @@
 ---
 layout: default
-title: Hello
+title: Home
 ---
 
+<main>
+    <section>
+        <h2>About Me</h2>
+        <p>I am Anantha Narayanan Suresh Babu, a researcher and developer focused on [insert your field or interests]. This site serves as a portfolio of my work and a blog where I share my thoughts and findings.</p>
+    </section>
 
-## An easy to use, minimal, text focused Jekyll theme
+    <section>
+        <h2>Projects</h2>
+        <p>Explore my ongoing and completed projects:</p>
+        <ul>
+            <li><a href="/project1">Project 1</a> - Brief description of Project 1.</li>
+            <li><a href="/project2">Project 2</a> - Brief description of Project 2.</li>
+            <!-- Add more projects as needed -->
+        </ul>
+    </section>
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+    <section>
+        <h2>Publications</h2>
+        <p>Here are some of my notable publications:</p>
+        <ul>
+            <li><a href="/publication1">Publication 1</a> - Brief description or abstract.</li>
+            <li><a href="/publication2">Publication 2</a> - Brief description or abstract.</li>
+            <!-- Add more publications as needed -->
+        </ul>
+    </section>
+</main>
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
-
-**Stop worrying about the style, focus on your writing.**
-
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
-
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+<footer>
+    <p>Like what you see or have questions? Contact me at <a href="ananthsb@mit.edu">ananthsb@mit.edu</a></p>
+</footer>

@@ -1,13 +1,15 @@
-<h2 class="title">{{ site.title }}</h2>
+<h1 style="margin-bottom: 0;"class="title">{{ site.title }}</h1>
+<p style="margin-top: 0;">{{ site.description }}</p>
+
 <nav>
-    <a href="{{ site.url }}">Home</a> 
-    <a href="{{ site.url }}{{ site.Blog }}">Blog</a>
+    <a href="{{ site.url }}">Home</a>
+    <a href="{{ site.url }}/projects">Projects</a>
 
     {% for link in site.links %}
-        <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
+        <a href="{{ link[1] }}">{{ link[0] }}</a>
     {% endfor %}
     
     {% for link in site.special_links %}
-            <a href="{{ link[1] }}">[{{ link[0] }}]</a>
+        <a href="{{ link[1] }}">[{{ link[0] }}]</a>
     {% endfor %}
 </nav>
