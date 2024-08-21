@@ -11,7 +11,7 @@ url: "https://www.anantha.me" # the base hostname & protocol for your site
 #########################
 # more settings
 
-permalink: /:title/
+#permalink: /:title/
 
 plugins:
   - jekyll-redirect-from
@@ -38,7 +38,7 @@ compress_html:
 
 collections:
   my_tags:
-    output: true
+    output: false
     permalink: /tagged/:slug/
 defaults:
   -
@@ -49,7 +49,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
+permalink: /:slug/
 timezone: America/New_York
 future: false
 

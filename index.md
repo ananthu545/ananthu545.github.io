@@ -15,8 +15,8 @@ title: Home
         <h2 class="nospace_heading">Fellowships & Awards</h2>
         <ul class="awards-list">
             <li>
-                <a href="https://engineering.mit.edu/fellows/anantha-narayanan-suresh-babu/" class="award-title">MIT Mechanical Engineering MathWorks Fellowship</a>
-                <span class="award-date">(2023-2024), (2024-2025)</span>
+                <span class="award-title">MIT Mechanical Engineering MathWorks Fellowship</span>
+                <span class="award-date">(<a href="https://engineering.mit.edu/fellows/anantha-narayanan-suresh-babu/">2023-2024</a>), (2024-2025)</span>
             </li>
             <li>
                 <span class="award-title">Martin A. Abkowitz International Travel Fellowship in Ocean Engineering</span>
