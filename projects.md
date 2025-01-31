@@ -7,7 +7,6 @@ permalink: projects/
 <h2>Projects</h2>
 
 <p class="project-links">
-    <span class="separator">|</span>
     <a href="#scientific-machine-learning"><u>Scientific Machine Learning</u></a> 
     <span class="separator">|</span>
     <a href="#stochastic-modeling"><u>Reduced Order Stochastic Modeling & <br> Bayesian Learning</u></a> 
