@@ -447,3 +447,35 @@ small a {
 .project-text {
     flex: 1;
 }
+
+/* For project links \*
+.project-links {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+    display: flex;
+    gap: 15px; /* Spacing between links */
+    align-items: center;
+}
+
+.project-links a {
+    text-decoration: none;
+    color: #333; /* Dark color for the links */
+    transition: color 0.3s ease;
+}
+
+.project-links a:hover {
+    text-decoration: underline; /* Keeps underline on hover */
+    color: #003d7a; /* Change color on hover */
+}
+
+.separator {
+    font-size: 1em; /* Make the separator (|) bigger */
+    font-weight: bold;
+    color: #666; /* Grey color for the separator */
+    margin: 0 5px; /* Add space around separator */
+}
+
+.project-links a:hover + .separator {
+    color: #007bff; /* Change separator color when hovering over the link */
+}

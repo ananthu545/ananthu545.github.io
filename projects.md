@@ -4,12 +4,16 @@ title: Projects
 permalink: projects/
 ---
 
-<h1>Projects</h1>
+<h2>Projects</h2>
 
-<p>
-    <a href="#scientific-machine-learning">Scientific Machine Learning</a> | 
-    <a href="#stochastic-modeling">Reduced Order Stochastic Modeling & Bayesian Learning</a> | 
-    <a href="#computational-modeling">Computational Modeling of Materials</a>
+<p class="project-links">
+    <span class="separator">|</span>
+    <a href="#scientific-machine-learning"><u>Scientific Machine Learning</u></a> 
+    <span class="separator">|</span>
+    <a href="#stochastic-modeling"><u>Reduced Order Stochastic Modeling & <br> Bayesian Learning</u></a> 
+    <span class="separator">|</span>
+    <a href="#computational-modeling"><u>Computational Modeling of Materials</u></a>
+    <span class="separator">|</span>
 </p>
 
 <div id="scientific-machine-learning">
