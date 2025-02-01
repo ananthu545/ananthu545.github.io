@@ -22,7 +22,7 @@ permalink: projects/
 <div class="project-content">
     <h4>1) Physics-Inspired Neural Architectures for Fluid and Oceanic Forecasts</h4>
     <figure style="text-align:center;">
-        <img src="/assets/images/Projects/physics_inspired.png" alt="Project 1" style="height:300px;">
+        <img src="/assets/images/Projects/physics_inspired.png" alt="Project 1" style="height:225px;">
     </figure>
     <p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>
     [Manuscript in prep.]
@@ -31,7 +31,7 @@ permalink: projects/
 <div class="project-content">
     <h4>2) Evaluating Neural Operator Models for Oceanic Forecasts</h4>
     <figure style="text-align:center;">
-        <img src="/assets/images/Projects/evaluation_neural_op.png" alt="Project 2" style="height:250px;">
+        <img src="/assets/images/Projects/evaluation_neural_op.png" alt="Project 2" style="height:200px;">
     </figure>
     <p>The present work investigates the possible effectiveness of such deep neural operator models for reproducing and predicting classic fluid flows and simulations of realistic ocean dynamics. We first briefly evaluate the capabilities of such deep neural operator models when trained on a simulated two-dimensional fluid flow past a cylinder. We then investigate their application to forecasting ocean surface circulation in the Middle Atlantic Bight and Massachusetts Bay, learning from high-resolution data-assimilative simulations employed for real sea experiments. </p>
     <a href="https://ieeexplore.ieee.org/abstract/document/10337380" target="_blank">[doi]</a>
@@ -40,7 +40,7 @@ permalink: projects/
 <div class="project-content">
     <h4>3) Neural Closure Modeling for 2D Fluid Dynamical Systems</h4>
     <figure style="text-align:center;">
-        <img src="/assets/images/Projects/neural_closure.png" alt="Project 3" style="height:250px;">
+        <img src="/assets/images/Projects/neural_closure.png" alt="Project 3" style="height:200px;">
     </figure>
     <p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>
     [Manuscript in prep.]
@@ -80,7 +80,7 @@ permalink: projects/
 <div class="project-content">
     <h4>1) A Crystal Plasticity-Based Model for Crystalline Ice with VUMAT</h4>
     <figure style="text-align:center;">
-        <img src="/assets/images/Projects/crystal_VUMAT.png" alt="Project 6" style="height:250px;">
+        <img src="/assets/images/Projects/crystal_VUMAT.png" alt="Project 6" style="height:200px;">
     </figure>
     <p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>
     <a href="/assets/files/Anantha_SureshBabu_2073_Project_Report.pdf" target="_blank">[MIT 2.073 Project Report]</a>
@@ -89,7 +89,7 @@ permalink: projects/
 <div class="project-content">
     <h4>2) Finite Viscoplastic Modeling of Hydrogels</h4>
     <figure style="text-align:center;">
-        <img src="/assets/images/Projects/viscoplastic_hydrogel.PNG" alt="Project 7" style="height:250px;">
+        <img src="/assets/images/Projects/viscoplastic_hydrogel.PNG" alt="Project 7" style="height:200px;">
     </figure>
     <p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>
     <a href="https://iopscience.iop.org/article/10.1088/2053-1591/ab2a49" target="_blank">[doi 1]</a>
@@ -100,7 +100,7 @@ permalink: projects/
 <div class="project-content">
     <h4>3) Analysis-Based Construction of Hyperelastic Potentials for Collagenous Tissues</h4>
     <figure style="text-align:center;">
-        <img src="/assets/images/Projects/analysis_collagenous.PNG" alt="Project 8" style="height:250px;">
+        <img src="/assets/images/Projects/analysis_collagenous.PNG" alt="Project 8" style="height:200px;">
     </figure>
     <p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>
     <a href="http://example.com" target="_blank">[Bachelor's Thesis]</a>
