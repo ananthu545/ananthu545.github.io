@@ -24,8 +24,8 @@ permalink: projects/
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/physics_inspired.png" alt="Project 1" style="height:225px;">
     </figure>
-    <p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>
-    [Manuscript in prep.]
+    <!--<p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>-->
+    <a target="_blank">[Manuscript in prep.]</a>
 </div>
 
 <div class="project-content">
@@ -33,7 +33,7 @@ permalink: projects/
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/evaluation_neural_op.png" alt="Project 2" style="height:200px;">
     </figure>
-    <p>The present work investigates the possible effectiveness of such deep neural operator models for reproducing and predicting classic fluid flows and simulations of realistic ocean dynamics. We first briefly evaluate the capabilities of such deep neural operator models when trained on a simulated two-dimensional fluid flow past a cylinder. We then investigate their application to forecasting ocean surface circulation in the Middle Atlantic Bight and Massachusetts Bay, learning from high-resolution data-assimilative simulations employed for real sea experiments. </p>
+    <!--<p>The present work investigates the possible effectiveness of such deep neural operator models for reproducing and predicting classic fluid flows and simulations of realistic ocean dynamics. We first briefly evaluate the capabilities of such deep neural operator models when trained on a simulated two-dimensional fluid flow past a cylinder. We then investigate their application to forecasting ocean surface circulation in the Middle Atlantic Bight and Massachusetts Bay, learning from high-resolution data-assimilative simulations employed for real sea experiments. </p>-->
     <a href="https://ieeexplore.ieee.org/abstract/document/10337380" target="_blank">[doi]</a>
 </div>
 
@@ -42,8 +42,8 @@ permalink: projects/
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/neural_closure.png" alt="Project 3" style="height:200px;">
     </figure>
-    <p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>
-    [Manuscript in prep.]
+    <!--<p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>-->
+    <a target="_blank">[Manuscript in prep.]</a>
 </div>
 
 </div>
@@ -58,8 +58,8 @@ permalink: projects/
     <figure style="text-align:center;">
             <img src="/assets/images/Projects/stochastic_sea_ice.png" alt="Project 4" style="height:200px;">
     </figure>
-    <p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>
-    <a href="http://example.com" target="_blank">[Master's Thesis]</a>
+     <!--<p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>-->
+    <a href="/assets/files/Anantha_SureshBabu_Masters_Thesis.pdf" target="_blank">[Master's Thesis]</a>
 </div>
 
 <div class="project-content">
@@ -67,8 +67,8 @@ permalink: projects/
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/bayesian_learning.png" alt="Project 5" style="height:200px;">
     </figure>
-    <p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>
-    [Manuscript in prep.]
+     <!--<p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>-->
+    <a target="_blank">[Manuscript in prep.]</a>
 </div>
 
 </div>
@@ -82,7 +82,7 @@ permalink: projects/
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/crystal_VUMAT.png" alt="Project 6" style="height:200px;">
     </figure>
-    <p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>
+     <!--<p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>-->
     <a href="/assets/files/Anantha_SureshBabu_2073_Project_Report.pdf" target="_blank">[MIT 2.073 Project Report]</a>
 </div>
 
@@ -91,7 +91,7 @@ permalink: projects/
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/viscoplastic_hydrogel.PNG" alt="Project 7" style="height:200px;">
     </figure>
-    <p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>
+     <!--<p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>-->
     <a href="https://iopscience.iop.org/article/10.1088/2053-1591/ab2a49" target="_blank">[doi 1]</a>
     <a href="https://www.sciencedirect.com/science/article/pii/S0020722518317099" target="_blank">[doi 2]</a>
     <a href="https://iopscience.iop.org/article/10.1088/2053-1591/ab0691" target="_blank">[doi 3]</a>
@@ -102,8 +102,8 @@ permalink: projects/
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/analysis_collagenous.PNG" alt="Project 8" style="height:200px;">
     </figure>
-    <p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>
-    <a href="http://example.com" target="_blank">[Bachelor's Thesis]</a>
+     <!--<p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>-->
+    <a href="/assets/files/Anantha_SureshBabu_Bachelors_Thesis.pdf" target="_blank">[Bachelor's Thesis]</a>
 </div>
 
 </div>
