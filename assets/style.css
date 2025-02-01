@@ -428,19 +428,9 @@ small a {
 
 /* Added for projects left image and right text */
 
-.project-content {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
-
-.project-content figure {
-    flex-shrink: 0;
-    max-width: 50%;
-}
 
 .project-content img {
-    width: 100%;
+    width: auto;
     height: auto;
 }
 

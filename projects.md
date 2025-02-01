@@ -19,7 +19,7 @@ permalink: projects/
 
 <h2>Scientific Machine Learning</h2>
 
-<div class="project">
+<div class="project-content">
     <h4>1) Physics-Inspired Neural Architectures for Fluid and Oceanic Forecasts</h4>
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/physics_inspired.png" alt="Project 1" style="height:300px;">
@@ -28,7 +28,7 @@ permalink: projects/
     [Manuscript in prep.]
 </div>
 
-<div class="project">
+<div class="project-content">
     <h4>2) Evaluating Neural Operator Models for Oceanic Forecasts</h4>
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/evaluation_neural_op.png" alt="Project 2" style="height:250px;">
@@ -37,7 +37,7 @@ permalink: projects/
     <a href="https://ieeexplore.ieee.org/abstract/document/10337380" target="_blank">[doi]</a>
 </div>
 
-<div class="project">
+<div class="project-content">
     <h4>3) Neural Closure Modeling for 2D Fluid Dynamical Systems</h4>
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/neural_closure.png" alt="Project 3" style="height:250px;">
@@ -53,7 +53,7 @@ permalink: projects/
 <h2>Reduced Order Stochastic Modeling and Bayesian Learning</h2>
 
 
-<div class="project">
+<div class="project-content">
     <h4>1) Stochastic Sea Ice Modeling with the Dynamically Orthogonal Equations</h4>
     <figure style="text-align:center;">
             <img src="/assets/images/Projects/stochastic_sea_ice.png" alt="Project 4" style="height:200px;">
@@ -62,7 +62,7 @@ permalink: projects/
     <a href="http://example.com" target="_blank">[Master's Thesis]</a>
 </div>
 
-<div class="project">
+<div class="project-content">
     <h4>2) Bayesian Learning of Sea Ice Dynamics</h4>
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/bayesian_learning.png" alt="Project 5" style="height:200px;">
@@ -77,7 +77,7 @@ permalink: projects/
 
 <h2>Computational Modeling of Materials</h2>
 
-<div class="project">
+<div class="project-content">
     <h4>1) A Crystal Plasticity-Based Model for Crystalline Ice with VUMAT</h4>
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/crystal_VUMAT.png" alt="Project 6" style="height:250px;">
@@ -86,7 +86,7 @@ permalink: projects/
     <a href="/assets/files/Anantha_SureshBabu_2073_Project_Report.pdf" target="_blank">[MIT 2.073 Project Report]</a>
 </div>
 
-<div class="project">
+<div class="project-content">
     <h4>2) Finite Viscoplastic Modeling of Hydrogels</h4>
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/viscoplastic_hydrogel.PNG" alt="Project 7" style="height:250px;">
@@ -97,7 +97,7 @@ permalink: projects/
     <a href="https://iopscience.iop.org/article/10.1088/2053-1591/ab0691" target="_blank">[doi 3]</a>
 </div>
 
-<div class="project">
+<div class="project-content">
     <h4>3) Analysis-Based Construction of Hyperelastic Potentials for Collagenous Tissues</h4>
     <figure style="text-align:center;">
         <img src="/assets/images/Projects/analysis_collagenous.PNG" alt="Project 8" style="height:250px;">
