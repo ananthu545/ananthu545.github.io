@@ -8,7 +8,7 @@ title: Home
         <h2 class="nospace_heading">About Me</h2>
         <img src="assets/images/Anantha_headshot.jpg" alt="Anantha" style="width:200px;height:auto;">
         <p class="section-text">Hello and welcome! I am a PhD candidate at MIT, majoring in Computational Science and Engineering <a href="https://cse.mit.edu/" target="_blank">(CSE)</a> and Mechanical Engineering <a href="https://meche.mit.edu/" target="_blank">(MechE)</a>. I work in the <a href="http://mseas.mit.edu/" target="_blank">MSEAS Lab</a>.</p>
-        <p class="section-text">My research interests are broadly in scientific deep learning, reduced order modeling, uncertainty quantification and Bayesian learning for fluid and oceanic flows, and sea ice dynamics. My work focuses on utilizing efficient computational and stochastic models to simulate these rapidly evolving phenomena and enhance our understanding of Earth's complex fluid dynamical systems.</p>
+        <p class="section-text">My research interests are broadly in generative modeling, scientific deep learning, reduced order modeling, and Bayesian learning for fluid and oceanic flows, and sea ice dynamics. My work focuses on utilizing efficient computational and stochastic tools to forecast and infer dynamics from sparse, gappy and noisy observations and enhance our understanding of Earth's complex fluid dynamical systems.</p>
         <p class="section-text">Check out my <a href="{{ site.url }}/projects">Projects page</a> for additional details.</p>
     </section>
     <section>
@@ -17,6 +17,14 @@ title: Home
             <li>
                 <span class="award-title">MIT Mechanical Engineering MathWorks Fellowship</span>
                 <span class="award-date">(<a href="https://engineering.mit.edu/fellows/anantha-narayanan-suresh-babu/" target="_blank">2023-2025</a>)</span>
+            </li>
+            <li>
+                <span class="award-title">Travel Award in Ocean Engineering</span>
+                <span class="award-date">(2025)</span>
+            </li>
+            <li>
+                <span class="award-title">USACM Travel Award</span>
+                <span class="award-date">(2025)</span>
             </li>
             <li>
                 <span class="award-title">Martin A. Abkowitz International Travel Fellowship in Ocean Engineering</span>
@@ -44,6 +52,7 @@ title: Home
     <section>
         <h2 class="nospace_heading">Conferences</h2>
         <p class="publication-entry"><strong>Presentations</strong></p>
+        <p class="publication-entry"><i>"Physics-inspired neural architectures for forecasting fluid and oceanic flows"</i>, 18th U. S. National Congress on Computational Mechanics, Chicago, Illinois</p>
         <p class="publication-entry"><i>"Stochastic modeling & learning for sea ice dynamics"</i>, 2024 SIAM Conference on Mathematics of Planet Earth, Portland, Oregon.</p>
         <p class="publication-entry"><i>"Probabilistic modeling & Bayesian learning for coupled sea ice-ocean dynamics"</i>, 17th U.S. National Congress on Computational Mechanics, Albuquerque, New Mexico.</p>
         <p class="publication-entry"><i>"Bayesian data assimilation & learning for coupled sea ice-ocean systems"</i>, 2023 SIAM Conference on Mathematical & Computational Issues in the Geosciences, Bergen, Norway.</p>

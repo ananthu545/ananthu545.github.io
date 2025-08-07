@@ -59,7 +59,7 @@ section {
 
 .award-title {
     font-weight: normal; /* Normal weight, not bold */
-    display: block;
+    display: inline;
     font-size: 1em; /* Match font size to the rest of your site's text */
 }
 
