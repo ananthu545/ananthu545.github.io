@@ -20,12 +20,12 @@ permalink: projects/
 <h2>Scientific Machine Learning</h2>
 
 <div class="project-content">
-    <h4>1) Physics-Inspired Neural Architectures for Fluid and Oceanic Forecasts</h4>
+    <h4>1) Guided Unconditional and Conditional Diffusion Models for Super-Resolution and Inference of Geophysical Turbulence</h4>
     <figure style="text-align:center;">
-        <img src="/assets/images/Projects/physics_inspired.png" alt="Project 1" style="height:225px;">
+        <img src="/assets/images/Projects/diffusion_super_res.png" alt="Project 1" style="height:225px;">
     </figure>
     <!--<p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>-->
-    <a target="_blank">[Manuscript in prep.]</a>
+    <a href="https://doi.org/10.48550/arXiv.2507.00719" target="_blank">[doi]</a> <a href="https://github.com/ananthu545/quasi-geostrophic-beta-plane-super-resolution" target="_blank">[code]</a>
 </div>
 
 <div class="project-content">
@@ -38,9 +38,27 @@ permalink: projects/
 </div>
 
 <div class="project-content">
-    <h4>3) Neural Closure Modeling for 2D Fluid Dynamical Systems</h4>
+    <h4>3) Physics-Inspired Neural Architectures for Fluid and Oceanic Forecasts</h4>
     <figure style="text-align:center;">
-        <img src="/assets/images/Projects/neural_closure.png" alt="Project 3" style="height:200px;">
+        <img src="/assets/images/Projects/physics_inspired.png" alt="Project 3" style="height:225px;">
+    </figure>
+    <!--<p>Description of Project 2. This section can include details about the project, its goals, and any other relevant information.</p>-->
+    <a target="_blank">[Manuscript in prep.]</a>
+</div>
+
+<div class="project-content">
+    <h4>4) Evaluating Functional Closure Models for Idealized Oceanic Flows past Coastal Boundaries</h4>
+    <figure style="text-align:center;">
+        <img src="/assets/images/Projects/ocean_cape_flow.png" alt="Project 4" style="height:250px;">
+    </figure>
+    <!--<p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>-->
+    <a target="_blank">[doi]</a>
+</div>
+
+<div class="project-content">
+    <h4>5) Neural Closure Modeling for 2D Fluid Dynamical Systems</h4>
+    <figure style="text-align:center;">
+        <img src="/assets/images/Projects/neural_closure.png" alt="Project 5" style="height:200px;">
     </figure>
     <!--<p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>-->
     <a target="_blank">[Manuscript in prep.]</a>
@@ -59,7 +77,7 @@ permalink: projects/
             <img src="/assets/images/Projects/stochastic_sea_ice.png" alt="Project 4" style="height:200px;">
     </figure>
      <!--<p>Description of Project 1. This section can include details about the project, its goals, and any other relevant information.</p>-->
-    <a href="/assets/files/Anantha_SureshBabu_Masters_Thesis.pdf" target="_blank">[Master's Thesis]</a>
+    <a href="https://dspace.mit.edu/handle/1721.1/152699" target="_blank">[Master's Thesis]</a>
 </div>
 
 <div class="project-content">
