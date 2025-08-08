@@ -3,8 +3,9 @@
 
 title: Anantha Narayanan Suresh Babu
 description: PhD Candidate & MathWorks Fellow | MIT CSE-MechE
-# baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
+baseurl: "" 
 url: "https://www.anantha.me" # the base hostname & protocol for your site
+permalink: pretty
 # host: 0.0.0.0
 
 
@@ -16,7 +17,7 @@ url: "https://www.anantha.me" # the base hostname & protocol for your site
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
-
+  - jekyll-seo-tag 
 
 whitelist:
   - jekyll-redirect-from
@@ -56,16 +57,17 @@ future: false
 exclude:
 - README.md
 - LICENSE.md
+- vendor
 
-exclude: [vendor]
+#exclude: [vendor]
 
-Projects: /projects
+Projects: /projects/
 
 #Blog: /blog
 
 # Add general links to site pages here
 links:
-  CV: /CV
+  CV: /CV/
   Google Scholar: https://scholar.google.co.in/citations?user=OitRjjYAAAAJ&hl=en
   LinkedIn: https://www.linkedin.com/in/anantha-narayanan-suresh-babu-1038b5137/
   
